@@ -134,12 +134,12 @@ body{
     list-style-type: none;
     transform: translateX(-100%);
     transition: transform .3s;
-    width: 265px;
+    width: 280px;
 }
 
 .menu-item {
     padding: 8px;
-    margin-left: 5px;
+    margin: 5px;
     color: white;
     font-size: 18px;
     text-align: center;
