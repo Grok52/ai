@@ -125,7 +125,7 @@ body{
 
 .menu-list {
     position: fixed;
-    top: -62px;
+    top: -22px;
     left: -2px;
     display: grid;
     gap: 12px;
